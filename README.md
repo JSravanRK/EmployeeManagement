@@ -148,4 +148,4 @@ Employee added successfully
 ## Author
 
 **Vemuri Sravan Ram Kumar**  
-Internship Project – Employee Management Application
+B.Tech Student
